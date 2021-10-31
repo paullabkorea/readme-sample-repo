@@ -44,8 +44,8 @@
 ### 3.1 개발 일정(WBS)
 * 일정표는 habitmaker.co.kr 에서 작성되었습니다.
 * 관련된 스택 표시는 dev.habitmaker.co.kr 에서 작성되었습니다.
-![](habit.jpg){: width="50%"}
-![](blob.png){: width="50%"}
+![](habit.jpg){: width="20%"}
+![](blob.png){: width="30%"}
 
 ## 4. 역활 분담
 
