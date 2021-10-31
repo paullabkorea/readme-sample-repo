@@ -42,8 +42,8 @@
 ...중략...
 ```
 ### 3.1 개발 일정(WBS)
-* 일정표는 [habitmaker.co.kr](habitmaker.co.kr) 에서 작성되었습니다.
-* 관련된 스택 표시는 [dev.habitmaker.co.kr](habitmaker.co.kr) 에서 작성되었습니다.
+* 일정표는 [habitmaker.co.kr](https://habitmaker.co.kr) 에서 작성되었습니다.
+* 관련된 스택 표시는 [dev.habitmaker.co.kr](https://dev.habitmaker.co.kr) 에서 작성되었습니다.
 <img src="habit.jpg" width="30%">
 <img src="blob.png" width="30%">
 
