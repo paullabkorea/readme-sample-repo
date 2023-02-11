@@ -27,7 +27,7 @@
   - Amazon Lightsail
 ...중략...
 ### 2.2 배포 URL
-- www.취준성공.com
+- https://www.studyin.co.kr/
 
 ## 3. 프로젝트 구조와 개발 일정
 ### 3.1 프로젝트 구조
@@ -58,6 +58,10 @@
 
 ## 5. UI / BM
 
+- 아래 페이지별 상세 설명, 더 큰 이미지로 하나하나씩 설명 필요
+<img src="ui.png" width="40%">
+- 아래 페이지별 상세 설명, 더 큰 이미지로 하나하나씩 설명 필요
+<img src="ui.png" width="40%">
 - 아래 페이지별 상세 설명, 더 큰 이미지로 하나하나씩 설명 필요
 <img src="ui.png" width="40%">
 
